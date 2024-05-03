@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Github-finder-React/static/css/main.d64d53ba.css",
+    "main.js": "/Github-finder-React/static/js/main.5a24114c.js",
+    "index.html": "/Github-finder-React/index.html",
+    "main.d64d53ba.css.map": "/Github-finder-React/static/css/main.d64d53ba.css.map",
+    "main.5a24114c.js.map": "/Github-finder-React/static/js/main.5a24114c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64d53ba.css",
+    "static/js/main.5a24114c.js"
+  ]
+}
